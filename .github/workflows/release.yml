@@ -61,6 +61,7 @@ jobs:
           base-devel
           mingw-w64-x86_64-toolchain
           mingw-w64-x86_64-autotools
+          mingw-w64-x86_64-autoconf-archive
           mingw-w64-x86_64-gettext
 
     - name: Build libhdate
